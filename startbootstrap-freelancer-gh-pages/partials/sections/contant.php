@@ -1,4 +1,4 @@
-<section class="page-section" id="contact">
+<<section class="page-section" id="contact">
             <div class="container">
                 <!-- Contact Section Heading-->
                 <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Contact Me</h2>
@@ -68,3 +68,4 @@
                 </div>
             </div>
         </section>
+ 

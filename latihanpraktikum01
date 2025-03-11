@@ -1,6 +1,0 @@
-apa yg di maksud dokumen root? direktori utama di dalam server web yang berisi file-file yang dapat diakses oleh pengguna melalui browser.
-pada apache web server, apakah dokumen root harus terletak dalam direktori C:\xampp\htdocs? jelaskan jawaban anda? tidak,dokumen root pada apache tidak harus selalu terletak di C:\xampp\htdocs?
-jelaskan apa yg dimaksud perintah git: init = membuat repository baru, clone = menyalin repository lain, remote = mengelola koneksi repository, add = menambahkan perubahan file, commit = menyimpan perubahan, push = mengirim atau upload, checkout = berpindah repository.
-jelaskan perbedaan github dan gitlab? github =  lebih populer dan banyak digunakan oleh komunitas open source, gitlab = mendukung kolaborasi untuk tim dan proyek dengan kontrol akses yang lebih ketat.
-apa bedanya variable user dengan variable system? user = dapat diubah sesuai dengan kebutuhan pengguna selama aplikasi berjalan, system = biasanya lebih statis dan tidak berubah kecuali diubah oleh administrator atau sistem.
-apa persamaan variable system dengan variable constant? keduanya digunakan dalam analisis ilmiah, memiliki pengaruh terhadap sistem yg dikaji.
