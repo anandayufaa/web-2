@@ -1,0 +1,8 @@
+<?php> 
+
+require_one 'config.php';
+
+class Connection
+{
+    public static
+}
